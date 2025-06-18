@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nuevoportafolio/static/css/main.b97f0cdc.css",
-    "main.js": "/nuevoportafolio/static/js/main.f2634d4f.js",
+    "main.js": "/nuevoportafolio/static/js/main.aa5fce36.js",
     "static/js/415.4d6acbeb.chunk.js": "/nuevoportafolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/nuevoportafolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Derek lima CV.pdf": "/nuevoportafolio/static/media/Derek lima CV.dbe977311f4ba8b732b2.pdf",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/nuevoportafolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/nuevoportafolio/index.html",
     "main.b97f0cdc.css.map": "/nuevoportafolio/static/css/main.b97f0cdc.css.map",
-    "main.f2634d4f.js.map": "/nuevoportafolio/static/js/main.f2634d4f.js.map",
+    "main.aa5fce36.js.map": "/nuevoportafolio/static/js/main.aa5fce36.js.map",
     "415.4d6acbeb.chunk.js.map": "/nuevoportafolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/nuevoportafolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b97f0cdc.css",
-    "static/js/main.f2634d4f.js"
+    "static/js/main.aa5fce36.js"
   ]
 }
